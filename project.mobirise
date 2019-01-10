@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Nele 3BA",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -102,7 +102,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "trots kots",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -151,7 +151,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Bangerik",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
