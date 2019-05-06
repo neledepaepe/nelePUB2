@@ -1294,11 +1294,92 @@ body {
   display: none;
 }
 .cid-rbafRBWXKy {
-  background-image: url("../../../assets/images/bomenrij-2000x2000.jpg");
+  background-image: url("../../../assets/images/bomenrij-7-2000x2000.jpg");
 }
 .cid-rbafRBWXKy H3 {
   color: #4f4943;
   text-align: left;
+}
+.cid-rj6kBRA01S {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rj6kBRA01S .row-links {
+  width: 100%;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rj6kBRA01S .social-row {
+  width: 100%;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rj6kBRA01S .media-container-row {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  -webkit-flex-direction: column;
+  -webkit-justify-content: center;
+  -webkit-align-items: center;
+}
+.cid-rj6kBRA01S .media-container-row .foot-menu {
+  list-style: none;
+  display: -webkit-flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 0;
+  margin-bottom: 0;
+  -webkit-justify-content: center;
+  -webkit-flex-wrap: wrap;
+}
+.cid-rj6kBRA01S .media-container-row .foot-menu li {
+  padding: 0 1rem 1rem 1rem;
+}
+.cid-rj6kBRA01S .media-container-row .foot-menu li p {
+  margin: 0;
+}
+.cid-rj6kBRA01S .media-container-row .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+  -webkit-flex-wrap: wrap;
+}
+.cid-rj6kBRA01S .media-container-row .social-list .mbr-iconfont-social {
+  font-size: 1.5rem;
+  color: #ffffff;
+}
+.cid-rj6kBRA01S .media-container-row .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-rj6kBRA01S .media-container-row .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-rj6kBRA01S .media-container-row .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-rj6kBRA01S .media-container-row .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+}
+.cid-rj6kBRA01S .media-container-row .row-copirayt {
+  word-break: break-word;
+  width: 100%;
+}
+.cid-rj6kBRA01S .media-container-row .row-copirayt p {
+  width: 100%;
+}
+.cid-rj6kBRA01S foot-menu-item {
+  color: #767676;
 }
 .cid-reLaQE1v8E {
   background-image: url("../../../assets/images/trots-kots-19-2000x1283.jpg");
@@ -2075,4 +2156,43 @@ body {
 }
 .cid-rbah5pmLlL .mbr-overlay ~ .container-slide {
   z-index: auto;
+}
+.cid-rj624K5y8u {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rj624K5y8u .title {
+  margin-bottom: 2rem;
+}
+.cid-rj624K5y8u .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rj624K5y8u a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rj624K5y8u a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-rj624K5y8u .multi-horizontal {
+  flex-grow: 1;
+  -webkit-flex-grow: 1;
+  max-width: 100%;
+}
+.cid-rj624K5y8u .input-group-btn {
+  display: block;
+  text-align: center;
+}
+.cid-rj62dyrW8n {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-rj62dyrW8n .mbr-iconfont-social {
+  font-size: 32px;
+  color: #767676;
+}
+.cid-rj62dyrW8n .social-list a:focus {
+  text-decoration: none;
 }
